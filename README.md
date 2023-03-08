@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Data structures and Algorithms, C++, Python, pandas, matplotlib, seaborn, BeautifulSoap**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lc_eWoe2SEJie4VCVNV-81qOStu2yihf/view)
+- 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/1lc_eWoe2SEJie4VCVNV-81qOStu2yihf/view)
 
 - ⚡ Fun fact **I am an INTJ according to MBTI test.**
 
