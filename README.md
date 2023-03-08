@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anmol Khandelwal</h1>
 <h3 align="center">Aspiring Full-Stack Data Scientist</h3>
 
-- 🔭 I’m currently working oo **Association rule mining using meta heuristic algorithms.** [SM-RuleMiner](https://github.com/anmolk11/SM-RuleMiner)
+- 🔭 I’m currently working on **Association rule mining using meta heuristic algorithms.** [SM-RuleMiner](https://github.com/anmolk11/SM-RuleMiner)
 
 - 🌱 I’m currently learning **Statistics for Machine Learning**
 
