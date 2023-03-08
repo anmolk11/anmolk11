@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on **Association rule mining using meta heuristic algorithms.** [SM-RuleMiner](https://github.com/anmolk11/SM-RuleMiner)
 
-- 🌱 I’m currently learning **Statistics for Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/anmolk11](https://github.com/anmolk11)
-
-- 💬 Ask me about **C++, Python, pandas, matplotlib, seaborn, BeautifulSoap**
+- 💬 Ask me about ** Data structures and Algorithms, C++, Python, pandas, matplotlib, seaborn, BeautifulSoap**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lc_eWoe2SEJie4VCVNV-81qOStu2yihf/view](https://drive.google.com/file/d/1lc_eWoe2SEJie4VCVNV-81qOStu2yihf/view)
 
