@@ -4,8 +4,9 @@
 - 🔭 I’m currently working on **Association rule mining using meta heuristic algorithms.** [SM-RuleMiner](https://github.com/anmolk11/SM-RuleMiner)
 
 - 💬 Ask me about **Data structures and Algorithms, C++, Python, pandas, matplotlib, seaborn, BeautifulSoup**
+<!--- - 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/1lc_eWoe2SEJie4VCVNV-81qOStu2yihf/view) -->
 
-- 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/1lc_eWoe2SEJie4VCVNV-81qOStu2yihf/view)
+
 
 - ⚡ Fun fact **I am an INTJ according to MBTI test.**
 
