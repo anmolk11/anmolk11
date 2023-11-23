@@ -11,9 +11,9 @@
         <a href="#"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
-       
+    </div>   
 
-    </div>
+    
     <div align=left>
         <br>
         <p>
